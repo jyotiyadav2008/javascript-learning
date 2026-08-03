@@ -9,7 +9,6 @@ console.log(name)
 console.log(typeof(name));
 
 
-
 // using the const variable
 const college = "AKTU";
 console.log(college);
